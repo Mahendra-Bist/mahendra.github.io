@@ -1,0 +1,24 @@
+[
+  
+  
+  
+  {
+    "name": "Web-Calculator",
+    "desc": "Web claculator is a small and my first project. it is used for calculation your general mathematical work easily.",
+    "image": "calculator",
+    "category": "mern"
+ 
+  },
+  {
+    "name": "Still Building-Projects..",
+    "desc": "i will making projects as well as developing.if you wanna see my projects. you have to go my github account and connect me there for collaborate",
+    "image": "meet",
+    "category": "mern",
+    "links": {
+      "view":"#",
+      "code":"https://github.com/Mahendra-Bist"
+    }
+  }
+  
+  
+]
